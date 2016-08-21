@@ -15,6 +15,10 @@ DO NOT TRUST THE WORKSHOP. Scripts can update silently and add backdoors.
 See the folders for information about each one.
 
 
+EDIT 2016:
+It seems a few clientside GMod hacks now have backdoors too..
+
+
 ./BD001_gpwn_new 						- gpwn backdoor, quite complex.
 ./BD002_Underdone			 			- Underdone backdoor/DRM annoyance script.
 ./BD003_rp_nexusgrad_v1_winter			- rp_nexusgrad_v1_winter map backdoor.
@@ -35,8 +39,9 @@ See the folders for information about each one.
 ./BD018_AfterShock_Gaming				- Annoyance & server takeover
 ./BD019_HTX_Hostile_Takeover_Exploit	- Server takeover with client menu
 ./BD020_Dumb							- Another dumb HTTP RunString one
-./BD021_ShittyScripts					- Backdoor'd cheat, clientside!
+./BD021_ShittyScripts					- Clientside backdoor'd cheat!
 ./BD022_TraitorGlow_Again				- Server takeover / Unbanner
+./BD023_gmeme_clientside_Backdoor		- Clientside cheat backdoor
 
 
 
