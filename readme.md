@@ -1,4 +1,4 @@
-![](http://unitedhosts.org/bar/tmp/Nope.jpg)
+![](http://img08.deviantart.net/2f69/i/2013/021/f/0/grumpy_cat_nope_poster_by_xpsr-d5sackl.png)
 
 
 ```
