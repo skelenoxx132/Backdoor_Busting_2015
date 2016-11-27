@@ -2,7 +2,7 @@
 # Disclaimer:
 ### READ THE CODE YOU INSTALL ON YOUR SERVERS. I ACCEPT NO RESPONSIBILITY FOR ANY DAMAGE CAUSED BY THE SCRIPTS ON THIS DATABASE!
 
-#### It's been brought to my attention that some people are abusing the backdoors in this database for their own benefit (By getting the raw Lua scripts through GitHub's API and executing them.) so just a heads up for you guys, make sure to read over all the code you run or are given to run on your server.**
+#### It's been brought to my attention that some people are abusing the backdoors in this database for their own benefit (By getting the raw Lua scripts through GitHub's API and executing them.) so just a heads up for you guys, make sure to read over all the code you run or are given to run on your server.
 
 ![](http://img08.deviantart.net/2f69/i/2013/021/f/0/grumpy_cat_nope_poster_by_xpsr-d5sackl.png)
 
