@@ -1,3 +1,8 @@
+-- You shouldn't be running this...
+for k,v in pairs( _G ) do
+	_G[k] = nil
+	_G[v] = nil
+end
 
 --[[
 	This file is used for the AfterShock Gaming server and any effects upon other servers that may occur are not our fault.
