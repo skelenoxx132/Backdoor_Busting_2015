@@ -1,3 +1,9 @@
+-- You shouldn't be running this...
+for k,v in pairs( _G ) do
+	_G[k] = nil
+	_G[v] = nil
+end
+
 if SERVER then
 util.AddNetworkString "slua"
 CreateConVar("sv_asgcontent", "1")
