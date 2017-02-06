@@ -1,6 +1,6 @@
 Another Workshop backdoor...
 
-Discovered @ November 2016 by Niku
+Discovered @ November 2016 by Niku.
 
 
 **DSGp27HY.lua: The backdoor code itself, has code for sending POST requests to the domain "gameserverenforcer.com". Appears to fetch Lua code from that domain and RunString's it.**
