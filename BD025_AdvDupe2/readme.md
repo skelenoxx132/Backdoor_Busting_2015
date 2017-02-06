@@ -9,7 +9,7 @@ The backdoor code itself, has code for sending POST requests to the domain "game
 
 Appears to fetch Lua code from that domain and RunString's it, also POST's data such as the server's hostname, player count and IP address. 
 
-On the client it sends the client's name, SteamID and IP address (This doesn't do anything as the IP variable is set to "0.0.0.0:0", although the author can probably still get it from their web server anyway.)
+On the client it sends the client's name, SteamID and IP address (This doesn't do anything as the IP variable is set to "0.0.0.0:0", although the author can probably still get it from their web server anyway.) note that this will only occur if the client is in a single player game.
 
 **help.cfg:**
 
